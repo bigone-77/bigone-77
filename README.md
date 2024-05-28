@@ -34,7 +34,7 @@
 <br>
 <br>
 <br>
-  <div align="center" style="display: flex; justify-content: center;">
+  <div align="left" style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigone-77&layout=compact" style="margin-right: 20px;">
 </div>
 
